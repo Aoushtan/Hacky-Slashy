@@ -1,0 +1,2 @@
+/// @desc Stall state
+

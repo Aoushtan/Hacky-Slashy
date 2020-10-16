@@ -15,7 +15,9 @@
         "dc08458d-91ad-49de-8c79-793d0ad9eb29",
         "403d4df1-36a0-447d-8bbb-b186c1ddb402",
         "5d4bb50d-1adc-454c-aa97-a14166dad170",
-        "c4112a12-d8c6-4dea-a915-7d5eb2ec8338"
+        "c4112a12-d8c6-4dea-a915-7d5eb2ec8338",
+        "1b697ccc-d9bd-4e30-899d-ce8430ea24ec",
+        "4f04db47-bb3a-419f-971d-f16bc87bafce"
     ],
     "filterType": "GMSprite",
     "folderName": "Skeleton",

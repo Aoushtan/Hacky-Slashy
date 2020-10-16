@@ -1,0 +1,33 @@
+{
+    "id": "4fda97df-6cf4-4a97-8bfe-0b42147f6de1",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "4fda97df-6cf4-4a97-8bfe-0b42147f6de1",
+    "children": [
+        "a8f4e42a-cf3f-4f73-8fd3-6c882c0ebf8d",
+        "bafe693d-3e46-4959-bf59-ceac3cdd8c40",
+        "cc27bccd-0231-4d8c-bb5c-020790fc8043",
+        "61ea94d8-49cd-46c1-954c-708f22c59466",
+        "648a0942-988e-4c19-aa31-441bdefdb17a",
+        "8adf2aeb-40ec-4abc-a1aa-baac4fa54e4e",
+        "1ee0c6fa-f494-4b2c-8aa6-faec0711158c",
+        "260dd678-9aa5-4611-a304-544ca313a1ff",
+        "f120d33e-0c66-44c0-9718-7e3ffc969c54",
+        "523518c4-ceb0-4490-844c-79729f719beb",
+        "27568877-8ef1-4c13-b4e4-9ea30cb87de7",
+        "acab475a-b1cc-44c5-941b-38459e0fe1a1",
+        "e0e00a08-7490-4559-8ce5-df6f4986ea03",
+        "ed1d4845-15ab-4b98-aafe-7f82140aeeab",
+        "123b361b-87ba-4aa9-a3b9-21f5f95185b5",
+        "4cfaf5f6-a097-4c77-a606-3d9f3b14dc5e",
+        "6b287cdb-b007-4b55-bd38-58e17f42db32",
+        "da0a629a-8440-4a7a-8291-e46d16c61371",
+        "5de1af92-fe01-4557-b38c-f279a227aa02",
+        "462136af-11e3-4178-9650-bbb965cf1825",
+        "0314e35f-e215-4541-b691-d5da5257bfcb"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "SuperBoss",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
